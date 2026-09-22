@@ -1,0 +1,6 @@
+{
+  "name": "BODY HUB - Gym & Member Portal",
+  "description": "Body Hub is a premium fitness brand website and SaaS member management platform featuring public programs, trainers, events, admin dashboard, and member portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
